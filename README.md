@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Usama</h1>
-<h3 align="center">A passionate full-stack developer from Lahore,PK</h3>
+<h3 align="center">A passionate full-stack developer from Lahore, PK</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=usamaadev&label=Profile%20views&color=0e75b6&style=flat" alt="usamaadev" /> </p>
 
 - 🔭 I’m currently perusing my degree in **Computer Science**
 
-- 💬 Ask me about **React, JS, TS, Node**
+- 💬 Ask me about **React, JS, TS, NodeJS**
 
 - 📫 How to reach me **usamaadev@gmail.com**
 
