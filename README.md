@@ -3,11 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=usamaadev&label=Profile%20views&color=0e75b6&style=flat" alt="usamaadev" /> </p>
 
-- 🔭 I’m currently perusing my degree in **Computer Science**
+- 🔭 **Computer Science** Graduate.
 
-- 💬 Ask me about **React, JS, TS, NodeJS**
+- 💬 Ask me about **ReactJS, NextJS JS, TS, NodeJS**
 
 - 📫 How to reach me **usamaadev@gmail.com**
+
+- Expert Fullstack developer
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
