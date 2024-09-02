@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **ReactJS, NextJS JS, TS, NodeJS**
 
-- 📫 How to reach me **usamaadev@gmail.com**
+- 📫 How to reach me **usamaadev@gmail.com** | **https://usamaadev.com**
 
 - Expert Fullstack developer
 
