@@ -1,25 +1,81 @@
-<h1 align="center">Hi 👋, I'm Usama (@ usamaadev)</h1>
-<h3 align="center">A passionate full-stack developer from Lahore, PK</h3>
+<div align="center">
+  <img 
+    src="https://www.usamaadev.com/wp-content/uploads/2024/11/usamaadev.com-cover.png" 
+    style="max-width: 100%; height: auto;" 
+    alt="Cover Image" 
+  />
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=usamaadev&label=Profile%20views&color=0e75b6&style=flat" alt="usamaadev" /> </p>
+<div align="start">
+  <h1>MedusaJS Developer & Fullstack Engineer (JS/TS)</h1>
+  <p>
+    Welcome! I am a <strong>MedusaJS Developer</strong> and <strong>JavaScript Fullstack Engineer</strong> with expertise in 
+    <em>eCommerce development</em> and <em>custom web application solutions</em>. I help businesses build scalable, future-proof 
+    websites and applications tailored to their needs.
+  </p>
+  
+  <h2>About</h2>
+  <p>
+    Based in <strong>Lahore, Pakistan</strong>, I specialize in <strong>eCommerce site development using MedusaJS</strong>, 
+    creating robust web applications, and providing <strong>custom software solutions</strong>. With over 
+    <strong>4 years of professional experience</strong>, I’ve successfully contributed to a variety of projects 
+    and collaborated with designers, developers, and business stakeholders.
+  </p>
+  
+  <p>
+    I develop cutting-edge eCommerce and custom web solutions to meet diverse business needs:
+  </p>
+  <ul>
+    <li>Direct-to-Consumer (<strong>D2C eCommerce</strong>)</li>
+    <li><strong>B2B eCommerce Platforms</strong></li>
+    <li><strong>Multi-vendor Marketplaces</strong></li>
+    <li><strong>Fullstack Custom Web Applications</strong></li>
+    <li><strong>Custom Software Solutions</strong></li>
+  </ul>
 
-- 🔭 **Computer Science** Graduate.
+  <p>
+    I am committed to delivering high-quality, <strong>scalable</strong>, and <strong>future-proof solutions</strong>. 
+    By following the best practices of <strong>software engineering</strong>, I ensure that your application is not 
+    just functional but also optimized for growth.
+  </p>
+  <p>
+    My experience includes contributing to more than a dozen successful projects and assisting long-term clients 
+    with <strong>project management</strong>, technical support, and solution-oriented development.
+  </p>
+  
+  <h2>Technical Skills</h2>
+  <p>
+    My working stack includes a range of modern technologies for building exceptional web applications:
+  </p>
+  <ul>
+    <li><strong>Node.js</strong> – Backend development</li>
+    <li><strong>Next.js</strong> – Server-side rendering and modern React applications</li>
+    <li><strong>React.js</strong> – Frontend development</li>
+    <li><strong>PostgreSQL</strong> / <strong>MongoDB</strong> – Database design and management</li>
+    <li><strong>ORMs</strong> – Efficient database handling</li>
+  </ul>
 
-- 💬 Ask me about **ReactJS, NextJS JS, TS, NodeJS**
+  <h2>How I Work</h2>
+  <p>
+    As a <strong>collaborative software developer</strong>, I prioritize clear communication, problem-solving, and 
+    attention to detail. My goal is to understand your vision and turn it into a reality with precision and efficiency.
+  </p>
+  <p>
+    Whether you're looking for <strong>custom eCommerce platforms</strong> or <strong>fullstack web applications</strong>, 
+    I am here to provide end-to-end solutions.
+  </p>
 
-- 📫 How to reach me **usamaadev@gmail.com** | **https://usamaadev.com**
+  <h2>Let’s Collaborate</h2>
+  <p>
+    Looking for a <strong>MedusaJS expert</strong> or <strong>fullstack developer</strong>? Reach out to discuss your project 
+    and see how I can help turn your ideas into a scalable, successful product.
+  </p>
+</div>
 
-- Expert Fullstack developer
+- 📫 Reach me here: **https://www.usamaadev.com/contact** <p align="left"> <img src="https://komarev.com/ghpvc/?username=usamaadev&label=Profile%20views&color=0e75b6&style=flat" alt="usamaadev" /> </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/usamaadev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="usamaadev" height="30" width="40" /></a>
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=usamaadev&show_icons=true&locale=en&layout=compact" alt="usamaadev" /></p>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=usamaadev&theme=radical&no-frame=false&no-bg=true&margin-w=4)
