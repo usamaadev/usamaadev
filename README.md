@@ -1,5 +1,11 @@
 <div align="center">
- ![image](https://github.com/user-attachments/assets/0fdcb797-f9a1-4983-8f66-d116b321bbd3)
+
+ <img 
+    src="https://github.com/user-attachments/assets/0fdcb797-f9a1-4983-8f66-d116b321bbd3" 
+    style="max-width: 100%; height: auto;" 
+    alt="Cover Image" 
+  />
+
 </div>
 
 <div align="start">
