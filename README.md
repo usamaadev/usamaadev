@@ -1,9 +1,5 @@
 <div align="center">
-  <img 
-    src="https://www.usamaadev.com/wp-content/uploads/2024/11/usamaadev.com-cover.png" 
-    style="max-width: 100%; height: auto;" 
-    alt="Cover Image" 
-  />
+ ![image](https://github.com/user-attachments/assets/0fdcb797-f9a1-4983-8f66-d116b321bbd3)
 </div>
 
 <div align="start">
