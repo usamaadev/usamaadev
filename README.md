@@ -1,11 +1,11 @@
 <div align="center">
-
+<a href="https://www.usamaadev.com/" target="_blank" rel="noopener noreferrer">
  <img 
     src="https://github.com/user-attachments/assets/0fdcb797-f9a1-4983-8f66-d116b321bbd3" 
     style="max-width: 100%; height: auto;" 
     alt="Cover Image" 
   />
-
+</a>
 </div>
 
 <div align="start">
