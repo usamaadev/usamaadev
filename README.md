@@ -18,7 +18,7 @@
   
   <h2>About</h2>
   <p>
-    Based in <strong>Lahore, Pakistan</strong>, I specialize in <strong>eCommerce site development using MedusaJS</strong>, 
+    Based in <strong>Frankfurt, Germany</strong>, I specialize in <strong>eCommerce site development using MedusaJS</strong>, 
     creating robust web applications, and providing <strong>custom software solutions</strong>. With over 
     <strong>4 years of professional experience</strong>, I’ve successfully contributed to a variety of projects 
     and collaborated with designers, developers, and business stakeholders.
