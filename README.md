@@ -11,7 +11,7 @@
 <div align="start">
   <h1>Fullstack Engineer (JS/TS)</h1>
   <p>
-    Welcome! I am a <strong>MedusaJS Developer</strong> and <strong>JavaScript Fullstack Engineer</strong> with expertise in 
+    Welcome! I am a <strong>Fullstack Engineer</strong> with expertise in 
     <em>eCommerce development</em> and <em>custom web application solutions</em>. I help businesses build scalable, future-proof 
     websites and applications tailored to their needs.
   </p>
@@ -20,7 +20,7 @@
   <p>
     Based in <strong>Frankfurt, Germany</strong>, I specialize in <strong>eCommerce site development using MedusaJS</strong>, 
     creating robust web applications, and providing <strong>custom software solutions</strong>. With over 
-    <strong>4 years of professional experience</strong>, I’ve successfully contributed to a variety of projects 
+    <strong>3 years of professional experience</strong>, I’ve successfully contributed to a variety of projects 
     and collaborated with designers, developers, and business stakeholders.
   </p>
   
@@ -28,11 +28,11 @@
     I develop cutting-edge eCommerce and custom web solutions to meet diverse business needs:
   </p>
   <ul>
+    <li><strong>Custom Software Solutions</strong></li>
     <li>Direct-to-Consumer (<strong>D2C eCommerce</strong>)</li>
     <li><strong>B2B eCommerce Platforms</strong></li>
     <li><strong>Multi-vendor Marketplaces</strong></li>
     <li><strong>Fullstack Custom Web Applications</strong></li>
-    <li><strong>Custom Software Solutions</strong></li>
   </ul>
 
   <p>
@@ -74,7 +74,7 @@
   </p>
 </div>
 
-- 📫 Reach me here: **https://www.usamaadev.com/contact** <p align="left"> <img src="https://komarev.com/ghpvc/?username=usamaadev&label=Profile%20views&color=0e75b6&style=flat" alt="usamaadev" /> </p>
+- 📫 Reach me here: **usamaadev@gmail.com** 
 
 
 
