@@ -9,7 +9,7 @@
 </div>
 
 <div align="start">
-  <h1>MedusaJS Developer & Fullstack Engineer (JS/TS)</h1>
+  <h1>Fullstack Engineer (JS/TS)</h1>
   <p>
     Welcome! I am a <strong>MedusaJS Developer</strong> and <strong>JavaScript Fullstack Engineer</strong> with expertise in 
     <em>eCommerce development</em> and <em>custom web application solutions</em>. I help businesses build scalable, future-proof 
