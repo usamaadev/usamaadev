@@ -9,7 +9,7 @@
 
   # Hi, I'm Usama 👋
 
-  **Full-Stack Engineer | React · TypeScript · Python**
+  **Full-Stack Engineer | ReactJS · NodeJs · TypeScript · Python**
 
   I build reliable web applications that solve real problems, scale with users, and make everyday work easier.
 
