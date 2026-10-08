@@ -16,7 +16,15 @@
 </div>
 
 ---
+## Summary
+ 
+ **Good software connects people, data, and devices.**
 
+ I build full-stack web applications following the best practices of software engineering, and my research on real-time control hardware shows where software meets the physical world.
+
+ Now studying High Integrity Systems, I care about making end-user products that are reliable, usable, and built to last.
+ 
+---
 ## About Me
 
 - Based in **Frankfurt am Main, Germany**
