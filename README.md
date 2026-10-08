@@ -16,13 +16,7 @@
 </div>
 
 ---
-## Summary
- 
- **Good software connects people, data, and devices.**
-
- I build full-stack web applications following the best practices of software engineering, and my research on real-time control hardware shows where software meets the physical world.
-
- Now studying High Integrity Systems, I care about making end-user products that are reliable, usable, and built to last.
+<div align="center"><p><b>Good software connects people, data, and devices.</b></p> <p>I build full-stack web applications following the best practices of software engineering, and my research on real-time control hardware shows where software meets the physical world.</p> <p>Now studying High Integrity Systems, I care about making end-user products that are reliable, usable, and built to last.</p> </div>
  
 ---
 ## About Me
@@ -69,38 +63,20 @@
 
 ---
 
-## Featured Work
-
-### AI Suspicious Activity Detection
-- Detects threats in real time using a custom **YOLO** model
-- Trained on **1,500+ labelled real-world videos**
-- Includes an automated alert pipeline and a dashboard
-- Deployed on **AWS** and shown at a **live exhibition**
-- Stack: Python, OpenCV, YOLO, React, AWS
-
-### Real-Time Washing Machine Control System
-- Research paper plus a **working hardware prototype**
-- My bridge between software and the physical world
-
-### HMI: Acceptance of AI in Family Smart Homes
-- Research on how families accept AI at home
-- Looked at it from a human-machine interaction angle
-
----
 
 ## Where I've Worked
 
 **CodeTuple Solutions** · Fullstack Developer
-- Built production **SaaS and e-commerce apps** serving **[10K+] users**, using **React, Node.js and MedusaJS**
-- Cut React page load time by **[40]%** with code splitting and lazy loading, and built **reusable components** that speed up new features
-- Built CI/CD (GitHub Actions, Docker) for staging and production, cutting deploy time by **[50]%**
-- Reduced recurring errors by **[30]%** by turning customer feedback and error logs into fixes
+- Built production **SaaS and e-commerce apps** serving **40K+ users**, using **React, Node.js and MedusaJS**
+- Cut React page load time by **40%** with code splitting and lazy loading, and built **reusable components** that speed up new features
+- Built CI/CD (GitHub Actions, Docker) for staging and production, cutting deploy time by **50%**
+- Reduced recurring errors by **30%** by turning customer feedback and error logs into fixes
 
 **DevelopersWorld LLC** · Fullstack Developer (Remote, USA)
 - EdTech platform for **60K active users** at **99.9% uptime**
 - Built a **Python and OpenAI API** automation pipeline that cut manual content work by **40%**
 - Wrote **Python scripts** to automate repetitive data and content tasks, saving **[10+] hours per week**
-- Shipped **[20+] REST API endpoints** and features in a team of developers under peak load
+- Shipped **20+ REST API endpoints** and features in a team of developers under peak load
 
 ---
 
