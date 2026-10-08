@@ -1,83 +1,136 @@
 <div align="center">
 <a href="https://www.usamaadev.com/" target="_blank" rel="noopener noreferrer">
- <img 
-    src="https://github.com/user-attachments/assets/0fdcb797-f9a1-4983-8f66-d116b321bbd3" 
-    style="max-width: 100%; height: auto;" 
-    alt="Cover Image" 
+  <img
+    src="https://github.com/user-attachments/assets/0fdcb797-f9a1-4983-8f66-d116b321bbd3"
+    style="max-width: 100%; height: auto;"
+    alt="Cover Image"
   />
 </a>
+
+# Hi, I'm Usama
+
+**Fullstack engineer who cares about software that doesn't break.**
+
+[![Email](https://img.shields.io/badge/Email-usamaadev@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:usamaadev@gmail.com)
+
 </div>
 
-<div align="start">
-  <h1>Fullstack Engineer (JS/TS)</h1>
-  <p>
-    Welcome! I am a <strong>Fullstack Engineer</strong> with expertise in 
-    <em>eCommerce development</em> and <em>custom web application solutions</em>. I help businesses build scalable, future-proof 
-    websites and applications tailored to their needs.
-  </p>
-  
-  <h2>About</h2>
-  <p>
-    Based in <strong>Frankfurt, Germany</strong>, I specialize in <strong>eCommerce site development using MedusaJS</strong>, 
-    creating robust web applications, and providing <strong>custom software solutions</strong>. With over 
-    <strong>3 years of professional experience</strong>, I’ve successfully contributed to a variety of projects 
-    and collaborated with designers, developers, and business stakeholders.
-  </p>
-  
-  <p>
-    I develop cutting-edge eCommerce and custom web solutions to meet diverse business needs:
-  </p>
-  <ul>
-    <li><strong>Custom Software Solutions</strong></li>
-    <li>Direct-to-Consumer (<strong>D2C eCommerce</strong>)</li>
-    <li><strong>B2B eCommerce Platforms</strong></li>
-    <li><strong>Multi-vendor Marketplaces</strong></li>
-    <li><strong>Fullstack Custom Web Applications</strong></li>
-  </ul>
+---
 
-  <p>
-    I am committed to delivering high-quality, <strong>scalable</strong>, and <strong>future-proof solutions</strong>. 
-    By following the best practices of <strong>software engineering</strong>, I ensure that your application is not 
-    just functional but also optimized for growth.
-  </p>
-  <p>
-    My experience includes contributing to more than a dozen successful projects and assisting long-term clients 
-    with <strong>project management</strong>, technical support, and solution-oriented development.
-  </p>
-  
-  <h2>Technical Skills</h2>
-  <p>
-    My working stack includes a range of modern technologies for building exceptional web applications:
-  </p>
-  <ul>
-    <li><strong>Node.js</strong> – Backend development</li>
-    <li><strong>Next.js</strong> – Server-side rendering and modern React applications</li>
-    <li><strong>React.js</strong> – Frontend development</li>
-    <li><strong>PostgreSQL</strong> / <strong>MongoDB</strong> – Database design and management</li>
-    <li><strong>ORMs</strong> – Efficient database handling</li>
-  </ul>
+## About Me
 
-  <h2>How I Work</h2>
-  <p>
-    As a <strong>collaborative software developer</strong>, I prioritize clear communication, problem-solving, and 
-    attention to detail. My goal is to understand your vision and turn it into a reality with precision and efficiency.
-  </p>
-  <p>
-    Whether you're looking for <strong>custom eCommerce platforms</strong> or <strong>fullstack web applications</strong>, 
-    I am here to provide end-to-end solutions.
-  </p>
+- Based in **Frankfurt am Main, Germany**
+- Studying **M.Sc. High Integrity Systems** at Frankfurt UAS
+- **2+ years** building web apps with **React, Node.js and TypeScript**
+- Focused on building real solutions that improve a workflow or benefit a specific group of people
+- Into practical AI: LLM automation and computer vision
+- Languages: English (fluent), German (basic–intermediate)
 
-  <h2>Let’s Collaborate</h2>
-  <p>
-    Looking for a <strong>MedusaJS expert</strong> or <strong>fullstack developer</strong>? Reach out to discuss your project 
-    and see how I can help turn your ideas into a scalable, successful product.
-  </p>
+---
+
+## What I'm Up To Right Now
+
+- Deepening my knowledge of **reliable, safety-focused software** through my Master's
+- Focusing on fullstack development with **Next.js, TypeScript and FastAPI**
+- Experimenting with **AI agents and Claude Code** in my workflow
+- Improving my **German**
+
+---
+
+## How I Work
+
+- **Reliability first:** I care about uptime, error logs and clean architecture
+- **Reusable code:** components that are easy to extend
+- **Performance-minded:** optimized APIs and database queries
+- **Team player:** clear communication, open to feedback
+- **User-focused:** products that are usable, not just functional
+
+---
+
+## Tech Stack
+
+| Area | Technologies |
+|---|---|
+| **Languages** | `Python` `JavaScript` `TypeScript` |
+| **Frontend** | `React` `Redux` `Next.js` |
+| **Backend** | `Node.js` `Express` `FastAPI` `MedusaJS` |
+| **Databases** | `PostgreSQL` `MongoDB` `MS SQL Server` |
+| **DevOps & Cloud** | `Docker` `GitHub Actions` `AWS` `GCP` `DigitalOcean` |
+| **AI** | `OpenAI API` `OpenCV` `Ultralytics YOLO` `Claude Code` |
+ 
+
+---
+
+## Featured Work
+
+### AI Suspicious Activity Detection
+- Detects threats in real time using a custom **YOLO** model
+- Trained on **1,500+ labelled real-world videos**
+- Includes an automated alert pipeline and a dashboard
+- Deployed on **AWS** and shown at a **live exhibition**
+- Stack: Python, OpenCV, YOLO, React, AWS
+
+### Real-Time Washing Machine Control System
+- Research paper plus a **working hardware prototype**
+- My bridge between software and the physical world
+
+### HMI: Acceptance of AI in Family Smart Homes
+- Research on how families accept AI at home
+- Looked at it from a human-machine interaction angle
+
+---
+
+## Where I've Worked
+
+**CodeTuple Solutions** · Fullstack Developer
+- Built production **SaaS and e-commerce apps** serving **[10K+] users**, using **React, Node.js and MedusaJS**
+- Cut React page load time by **[40]%** with code splitting and lazy loading, and built **reusable components** that speed up new features
+- Built CI/CD (GitHub Actions, Docker) for staging and production, cutting deploy time by **[50]%**
+- Reduced recurring errors by **[30]%** by turning customer feedback and error logs into fixes
+
+**DevelopersWorld LLC** · Fullstack Developer (Remote, USA)
+- EdTech platform for **60K active users** at **99.9% uptime**
+- Built a **Python and OpenAI API** automation pipeline that cut manual content work by **40%**
+- Wrote **Python scripts** to automate repetitive data and content tasks, saving **[10+] hours per week**
+- Shipped **[20+] REST API endpoints** and features in a team of developers under peak load
+
+---
+
+## Education & Certifications
+
+**Education**
+- M.Sc. High Integrity Systems, Frankfurt UAS (2025 – now)
+- B.Sc. Computer Science, University of Gujrat
+
+**Certifications**
+- Developing Front-End Apps with React (IBM)
+- Data Science Web App with Streamlit and Python
+- Unsupervised Learning in Python
+- Responsive Web Design
+- SQL (Intermediate)
+
+---
+
+## Where I'm Heading
+
+- Building **high-integrity, safety-critical software**
+- Combining **fullstack web** with **real-time and embedded systems**
+- Creating **trustworthy, human-friendly AI products**
+- Growing my career in **Germany**
+
+---
+
+## Let's Connect
+
+- Email: [usamaadev@gmail.com](mailto:usamaadev@gmail.com)
+- Open to roles, collaborations and good conversations about reliable software
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=usamaadev&layout=compact&theme=radical&hide_border=true)
+
 </div>
-
-- 📫 Reach me here: **usamaadev@gmail.com** 
-
-
-
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=usamaadev&theme=radical&no-frame=false&no-bg=true&margin-w=4)
